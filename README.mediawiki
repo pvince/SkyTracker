@@ -2,15 +2,35 @@
 
 Code and design files for a motorized barn door tracker for night sky photography.
 
-= Testing Formatting =
-This is some text down here
+= Hardware =
+== Design ==
+Status: 
+* Current mockup should be workable assuming the stepper motor does not change as the design progresses.
 
-== Sub Section One ==
-# Numbered List
-# Testing
-# List
+Concerns:
+* Vibration induced by stepper motor.
+* Coupling of stepper motor shaft and threaded rod.
+* Power requirements of stepper motor could lead to a last minute stepper motor change.
 
-== Sub Section Two ==
-* Bullet List
-* Bullet List 2
-* Bullet List 3
+TODO:
+* Measure T-nuts, make sure holes in mounting boards are the correct size.
+* Waiting on circuit for the following information:
+** Circuit mounting constraints (Size, mounting holes, power supply)
+
+= Circuit Design =
+Status:
+* Not started.
+
+Concerns:
+* Power consumption of stepper motor, need to create designs to determine alternatives and solutions.
+** Power consumption vs. torque, how much torque is going to be required to lower the camera?
+** Stepper vs. Servo w/ regards to vibration?
+* Power supply battery vs. AC Power, Wattage being consumed by steppers for possible deep cycle battery -> Power Inverter or DC-DC power supply -> Stepper motor supply.
+
+= Software Design =
+Status:
+* Not Started.
+
+Requirements:
+* Drive stepper at a set rate to match sky rotation
+* Quick move modes for moving platform up & down
