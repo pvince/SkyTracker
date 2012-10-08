@@ -2,8 +2,7 @@
 
 Code and design files for a motorized barn door tracker for night sky photography.
 
-= Hardware =
-== Design ==
+== Hardware ==
 Status: 
 * Current mockup should be workable assuming the stepper motor does not change as the design progresses.
 
@@ -17,7 +16,7 @@ TODO:
 * Waiting on circuit for the following information:
 ** Circuit mounting constraints (Size, mounting holes, power supply)
 
-= Circuit Design =
+== Circuit Design ==
 Status:
 * Not started.
 
@@ -27,7 +26,7 @@ Concerns:
 ** Stepper vs. Servo w/ regards to vibration?
 * Power supply battery vs. AC Power, Wattage being consumed by steppers for possible deep cycle battery -> Power Inverter or DC-DC power supply -> Stepper motor supply.
 
-= Software Design =
+== Software Design ==
 Status:
 * Not Started.
 
