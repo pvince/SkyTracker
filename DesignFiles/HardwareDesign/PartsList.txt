@@ -1,0 +1,38 @@
+Aluminum
+- 0.25 x 1.67 x 1.67  : Motor Mount Plate
+- 0.5  x 2    x 1.25  : Motor Pivot Mount
+- 0.5  x 2    x 1     : Top Pivot Mount
+
+Rod [Aluminum vs. Brass]
+- 0.375 x 2.57        : Motor Pivot Rod
+- 0.5   x 1.25        : Top Pivot Rod
+
+Other
+- Threaded Rod [Brass vs Other]
+-- 1/4-20 vs 4-40
+-- 6+ inches
+- 6x M3 @ 10 mm
+- [1/4 or #4] to 0.1968 in (5 mm) coupler
+
+
+
+Brass Threaded Rod
+- 1/4 - 20, 4"
+
+Brass Rods (Motor Mount)
+- ~1/4" or 5 mm, must be less than 0.5"
+- Total length required is short...
+- 2 for motor pivot
+
+Brass Rods (Stationary Nut)
+- ~1/2" or 5 mm, must be less than 0.5"
+- 8 mm is also a possibility, can then be used w/ skate bearings
+- Total length required is short...
+- 2 for motor pivot
+
+Aluminum Block (Motor Mount)
+- 42 mm x 42 mm x 10 cm
+- 1.65 in x 1.65 in x 0.3937
+- Alternate: 2 in x 2 in x 0.5 in
+
+Skate Bearings?
