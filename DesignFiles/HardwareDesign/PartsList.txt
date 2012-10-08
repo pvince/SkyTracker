@@ -1,5 +1,12 @@
+=============================
+======= Legend ==============
+* : Acquired
+- : Still need to acquire
+
+=============================
+======= Current Info ========
 Aluminum
-- 0.25 x 1.67 x 1.67  : Motor Mount Plate
+* 0.25 x 1.67 x 1.67  : Motor Mount Plate (0.25 x 2 x ~1 ft)
 - 0.5  x 2    x 1.25  : Motor Pivot Mount
 - 0.5  x 2    x 1     : Top Pivot Mount
 
@@ -8,14 +15,16 @@ Rod [Aluminum vs. Brass]
 - 0.5   x 1.25        : Top Pivot Rod
 
 Other
-- Threaded Rod [Brass vs Other]
--- 1/4-20 vs 4-40
--- 6+ inches
-- 6x M3 @ 10 mm
+* Threaded Rod [Brass]
+** 1/4-20
+** 12 inches
+* 6x M3 @ 10 mm (Also 6x M3 @ 12 mm)
+* 1/4-20 T-Nut for Tripod
+* 3/8-16 T-Nut for Camera Ball Mount
 - [1/4 or #4] to 0.1968 in (5 mm) coupler
 
-
-
+=============================
+======= Old Info ============
 Brass Threaded Rod
 - 1/4 - 20, 4"
 
